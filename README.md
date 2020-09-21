@@ -1,1 +1,3 @@
-ICMP Ping Python
+ICMP Pinger
+
+Implement a Ping application using ICMP request and reply messages
